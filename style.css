@@ -1,0 +1,22 @@
+body {
+    min-height: 3dvb;
+  }
+  .jumbotron {
+    padding-top: 3rem;
+    background-color: #a79277;
+  }
+  
+  #projects {
+    padding-top: 2rem;
+    background-color: #987070;
+  }
+  
+  #contact {
+    padding-top: 2rem;
+    background-color: #d0b8a8;
+  }
+  
+  #about {
+    padding-top: 2rem;
+    background-color: #d1bb9e;
+  }
